@@ -72,12 +72,5 @@ Archimedean Helical trajectory
 Traced Helical trajectory
 ![arm-trajectory](images/final.png "trajectory starting with an origin at (0,0.7,0)")
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/oENpnQvfFkQ"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+**Watch the video on YouTube**  
+[Universal Robots UR10: 3D Trajectory Tracing Demo in NVIDIA ISAAC Lab](https://www.youtube.com/watch?v=oENpnQvfFkQ)
